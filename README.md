@@ -13,23 +13,23 @@
 
 ## 🚀 About Me
 
-I know Rust, C, Go, Python, JavaScript
+I know Rust (my go-to language), C, Go, Python, JavaScript, C, C++
 
 ---
 ## 🛠️ Tech Stack
 **Languages**
-Rust, Python, JavaScript,  Go
+Rust (main go-to language), Go, C, C++, Python, JavaScript
 
 **Frontend**  
 Next.js · React · JavaScript
 
 **Backend**  
-Node.js · Express · API Routes · Python (Flask, FastAPI)  ·  Rust  ·  Go
+Rust (main language) ·  Go  ·   C  ·   C++  ·  Node.js · Express · API Routes · Python
 
 ## 📫 Contact
 
-- **Email:** `lakshyaai@outlook.com`  
-- **GitHub:** [@CoderzHub1](https://github.com/CoderzHub1)
+- **Email:** `lakshyaai@outlook.com`
+- **Instagram** [@lakshyabharati2](https://www.instagram.com/lakshyabharati2/)
 
 ---
 
