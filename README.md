@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/CoderzHub1?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/CoderzHub1?affiliations=OWNER&style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=CoderzHub1&color=blue" />
+  <img src="https://img.shields.io/github/followers/lakshyabharati1?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/lakshyabharati1?affiliations=OWNER&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lakshyabharati1&color=blue" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Rust (main language) ·  Go  ·   C  ·   C++  ·  Node.js · Express · API Rou
 ## 📫 Contact
 
 - **Email:** `lakshyaai@outlook.com`
-- **Instagram** [@lakshyabharati2](https://www.instagram.com/lakshyabharati2/)
+- **Instagram** [@lakshyahere01](https://www.instagram.com/lakshyahere01/)
 
 ---
 
